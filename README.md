@@ -1,6 +1,6 @@
 # Luiz Otavio Dias Junior
 
-Olá me chamo Luiz Otávio, tenho 22 anos e estou cursando Análise e Desenvolvimento de Sistemas na FATEC-Americana. Sou um programador em desenvolvimento, interessado em expandir meus conhecimentos em diversas áreas de tecnologia. Tenho um foco especial em aprender novas linguagens de programação, explorar frameworks e me aprofundar em tecnologias emergentes. Atualmente, estou estudando mais a fundo projetos que envolvem frontend, e sempre busco oportunidades para melhorar minhas habilidades e aplicar o que aprendo na faculdade e em projetos pessoais.
+Olá me chamo Luiz Otávio, tenho 23 anos e estou cursando Análise e Desenvolvimento de Sistemas na FATEC-Americana. Sou um programador em desenvolvimento, interessado em expandir meus conhecimentos em diversas áreas de tecnologia. Tenho um foco especial em aprender novas linguagens de programação, explorar frameworks e me aprofundar em tecnologias emergentes. Atualmente, estou estudando mais a fundo projetos que envolvem frontend, e sempre busco oportunidades para melhorar minhas habilidades e aplicar o que aprendo na faculdade e em projetos pessoais.
 
 ### Conecte-se comigo
 
